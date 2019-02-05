@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Shazil\\Grade12\\Coding Assignments(Grade12)\\VotingProcessingMachine\\VotingProcessingMachine\\VotingProcessingMachine.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

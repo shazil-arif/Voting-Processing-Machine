@@ -1,0 +1,16 @@
+
+"Croke,Summe",385273076,F,12,17
+"Pelham,Son",715010339,M,11,18
+"Dingus,Joshu",843460738,F,11,14
+"Kroeker,Quinti",694842868,F,9,18
+"Cambareri,Kyok",288917197,M,9,15
+"Amo,Shain",357682867,M,12,15
+"Cantor,Tamek",332198877,F,9,16
+"Lovins,Flavi",995662439,F,11,16
+"Haberman,Ik",557642281,F,12,17
+"Judy,Letiti",152246192,F,9,17
+"Hamburger,Carmin",201283068,F,12,16
+"Dawdy,Denit",143301087,M,10,16
+"Hambright,Meaga",403810937,F,9,15
+"Cockrum,Non",411219316,M,9,18
+"Vogan,Lewi",612511439,M,10,16
